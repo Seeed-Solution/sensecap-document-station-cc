@@ -1,0 +1,1 @@
+This guide will walk you through how to subscribe your devices' messages as well as how to send a command to a specific device, using Eclipse Mosquitto’s CLIs to subscribe or publish messages.
